@@ -81,8 +81,29 @@ ViHotel3k captures fine-grained opinions across **11 core aspects** of the hospi
 
 If you wish to contribute to this project (e.g., adding annotations, proposing new data samples, or correcting existing labels), please read our comprehensive [CONTRIBUTE.md](CONTRIBUTE.md) guidelines. We welcome all community efforts to enhance dataset size and annotation quality!
 
+## 🏷️ 3. Citation
+
+If you use the **ViHotel3k** dataset in your research, academic publications, or commercial applications, please cite and mention the author:
+
+### APA Style
+```text
+Nguyen, B. H. (2026). ViHotel3k: Vietnamese Hotel Reviews Dataset for Aspect-Based Sentiment Analysis. GitHub repository. Retrieved from https://github.com/NguyenBaoHuy05/ViHotel3k
+```
+
+### BibTeX
+```bibtex
+@misc{vihotel3k,
+  author       = {Nguyen Bao Huy},
+  title        = {ViHotel3k: Vietnamese Hotel Reviews Dataset for Aspect-Based Sentiment Analysis},
+  year         = {2026},
+  publisher    = {GitHub},
+  journal      = {GitHub Repository},
+  howpublished = {\url{https://github.com/NguyenBaoHuy05/ViHotel3k}}
+}
+```
+
 ---
 
-## 📄 3. License
+## 📄 4. License
 
 This project is licensed under the terms of the **MIT License** - see the [LICENSE](LICENSE) file for details.
